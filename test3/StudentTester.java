@@ -1,16 +1,3 @@
-/*
-Name: Md Naimul Islam
-ID: 2014000000038
-Question: StudentTester - 3
-OUTPUT
-Name of the Student: Unassigned
-ID of the Student: Unassigned
-Name of the Student: Bob
-ID of the Student: 1
-Name of the Student: Tom
-ID of the Student: 2
-
-*/
 
 public class StudentTester{
 public static void main(String [] args){
